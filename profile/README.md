@@ -2,7 +2,7 @@
 ![DC Banner](https://user-images.githubusercontent.com/65373279/116761730-055f0000-aa36-11eb-80b0-96f321958926.png)
 # **Design and Code**
 
-Welcome to Design & Code where anyone interested in designing and coding can connect and interact with fellow peers from all over the globe and not only learn but also collaborate on various projects!
+Welcome to Design & Code where anyone interested in designing and coding can connect and interact with fellow peers from all over the globe and not only learn, but also collaborate on various projects!
 
 <p align="left">
 <a href="mailto:designandcode.community@gmail.com" style="text-decoration:none">
@@ -28,26 +28,23 @@ Welcome to Design & Code where anyone interested in designing and coding can con
 </a>
 <br />
 
-
 # Community Support
 
 > Raise an issue to join the **Design and Code** GitHub Community.
 
-     
-      
-### Steps to join The Design and Code Github Organization:
+### How can I join the Design and Code GitHub community?
 
 > 1. Go to the issues tab [here](https://github.com/Design-and-Code/support/issues).
 >   
-> 2. In the Issues Tab and create a new issue.
+> 2. Create a new issue.
 > 
-> 3. Select the "Invitation to Design and Code - Github Organization" and fill in your details.
+> 3. Select the "Invitation to Design and Code - GitHub Organization" and fill in your details.
 > 
-> 4. That's it you'll recieve an e-mail invitation to join our org. Make sure you accept it, than only you will become a member of our Github Organization.
+> 4. That's it! You'll recieve an e-mail invitation to join our organization.. Make sure you accept it, then you will become a member of our GitHub Organization. 🎉
 
-### How do I set the Organization to Public?
+### How do I set the membership to public?
 
-> 1. Navigate to our community page: https://github.com/Design-and-Code/
+> 1. Navigate to our GitHub community page: https://github.com/Design-and-Code/
 >   
 > 2. Click on the people header or click [here](https://github.com/orgs/Design-and-Code/people) : <br>
 >   
@@ -61,10 +58,9 @@ Welcome to Design & Code where anyone interested in designing and coding can con
 >   
 > <img width="639" alt="makepublic" src="https://user-images.githubusercontent.com/65373279/133414458-d76d47b4-1c96-439c-aff9-41a16a93ef9b.png"> <br>
   
-
 ## Socials
 
->Join our discord community [here](https://discord.gg/druweDMn3s)   
->Subscribe our YouTube channel [here](https://www.youtube.com/channel/UCd4E0oe8MtnZu_48WvYeLMw)
+> Join our Discord community [here](https://discord.gg/druweDMn3s)   
+> Subscribe to our YouTube channel [here](https://www.youtube.com/channel/UCd4E0oe8MtnZu_48WvYeLMw)
 
-<a href="https://discord.gg/druweDMn3s">👋 join our discord community <strong>Design and Code</strong> </a>
+<a href="https://discord.gg/druweDMn3s">👋 Join our Discord community <strong>Design and Code</strong> </a>
