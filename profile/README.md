@@ -8,10 +8,10 @@ Welcome to Design & Code where anyone interested in designing and coding can con
 <a href="mailto:designandcode.community@gmail.com" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-  <a href="https://discord.gg/druweDMn3s" style="text-decoration:none">
+  <a href="https://discord.gg/gM3bG4rAU5" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-<a href="http://designandcode.us/" style="text-decoration:none">
+<a href="http://designandcode.netlify.app/" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/website-c14438?&style=for-the-badge&logo=internet&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/company/designandcode" style="text-decoration:none">
