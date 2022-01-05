@@ -1,5 +1,5 @@
+![Twitter Banner (1)](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 
-![DC Banner](https://user-images.githubusercontent.com/65373279/116761730-055f0000-aa36-11eb-80b0-96f321958926.png)
 # **Design and Code**
 
 Welcome to Design & Code where anyone interested in designing and coding can connect and interact with fellow peers from all over the globe and not only learn, but also collaborate on various projects!
@@ -23,7 +23,7 @@ Welcome to Design & Code where anyone interested in designing and coding can con
 <a href="https://www.instagram.com/designandcode.community" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://www.youtube.com/channel/UCd4E0oe8MtnZu_48WvYeLMw" style="text-decoration:none">
+<a href="https://www.youtube.com/channel/UCd4E0oe8MtnZu_48WvYeLMw?sub_confirmation=1" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/YouTube-%23E20036.svg?&style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
 <br />
@@ -60,7 +60,7 @@ Welcome to Design & Code where anyone interested in designing and coding can con
   
 ## Socials
 
-> Join our Discord community [here](https://discord.gg/druweDMn3s)   
-> Subscribe to our YouTube channel [here](https://www.youtube.com/channel/UCd4E0oe8MtnZu_48WvYeLMw)
+> Join our Discord community [here](https://discord.gg/gM3bG4rAU5)   
+> Subscribe to our YouTube channel [here](https://www.youtube.com/channel/UCd4E0oe8MtnZu_48WvYeLMw?sub_confirmation=1)
 
 <a href="https://discord.gg/druweDMn3s">👋 Join our Discord community <strong>Design and Code</strong> </a>
